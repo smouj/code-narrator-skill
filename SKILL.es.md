@@ -1,0 +1,5 @@
+- Estructura markdown y YAML frontmatter intactos
+- Todos los bloques de código en inglés
+- Términos técnicos en inglés (Node.js, TypeScript, AST, etc.)
+- Traducciones solicitadas: Scope→Alcance, Work Process→Proceso de Trabajo, Golden Rules→Reglas de Oro, Troubleshooting→Solución de Problemas, Requirements→Requisitos
+- Estilo natural y profesional
